@@ -1,3 +1,4 @@
+entrypoint="Quantum_Algorithmic_Foundations.py"
 modules = ["python-3.10"]
 [nix]
 channel = "stable-24_05"
